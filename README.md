@@ -5,6 +5,9 @@
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nft-mykd.vercel.app/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hadisa/nft-MYKD_)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+  <img src="/landing.png" alt="MYKD NFT Marketplace Landing Page" width="800" />
+  <p><em>MYKD NFT Marketplace - Your Gateway to Digital Collectibles</em></p>
 </div>
 
 ## 🚀 Features
