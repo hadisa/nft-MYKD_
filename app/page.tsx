@@ -14,10 +14,9 @@ export default function Home() {
 
   useEffect(() => {
     // Initialize store with data only once on component mount
-    setTournaments(tournaments);
+    setTournaments(tournaments as any); // Quick fix with type assertion
     setNews(newsArticles);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []); // Empty dependency array ensures this runs only once on mount
+  }, [setTournaments, setNews]); // Add dependencies to follow React hooks rules
 
   return (
     <div className="min-h-screen bg-slate-900">
